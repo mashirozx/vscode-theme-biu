@@ -1,14 +1,14 @@
 {
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
+  "name": "theme-biu",
+  "displayName": "Biu Theme",
   "version": "0.1.14",
-  "description": "Vitesse theme for VS Code",
+  "description": "Biu theme for VS Code",
   "categories": [
     "Themes"
   ],
   "keywords": [
     "theme",
-    "vitesse",
+    "biu",
     "light",
     "dark"
   ],
@@ -16,14 +16,14 @@
     "themes"
   ],
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/mashirozx/vscode-theme-biu/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/mashirozx/vscode-theme-biu"
   },
   "license": "MIT",
-  "publisher": "antfu",
+  "publisher": "mashirozx",
   "scripts": {
     "build": "esno src/index.ts",
     "dev": "nodemon --watch src -e ts --exec \"esno src/index.ts\"",
@@ -32,12 +32,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
+        "label": "Biu Light",
         "uiTheme": "vs",
         "path": "./themes/vitesse-light.json"
       },
       {
-        "label": "Vitesse Dark",
+        "label": "Biu Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse-dark.json"
       }

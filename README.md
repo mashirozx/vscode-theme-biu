@@ -1,4 +1,4 @@
-<h1 align="center">Vitesse Theme for VS Code</h1>
+<h1 align="center">Biu Theme for VS Code</h1>
 
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-vitesse.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
